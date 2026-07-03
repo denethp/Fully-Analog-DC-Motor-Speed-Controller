@@ -202,4 +202,4 @@ https://canva.link/gsjmjxzgy5exvvy
 
 ## License
 
-This project was developed for academic purposes as part of the EN2160 Analog Electronics module at the University of Moratuwa.
+This project was developed for academic purposes as part of the EN2160 Electronic Circuit Design module at the University of Moratuwa.
