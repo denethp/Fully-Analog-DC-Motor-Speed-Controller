@@ -179,10 +179,12 @@ Experimental observations verified the expected behavior of proportional, integr
 
 **Team Neural Nexus**
 
-- Deneth Priyadarshana
-- Lasan Perera
-- Isitha Dinujaya
-- Dulana Pitiwaduge
+| Team Member | Responsibility |
+|--------------|----------------|
+| Deneth Priyadarshana | PWM Generation |
+| Lasan Perera | Sensing and Feedback |
+| Isitha Dinujaya | PID System |
+| Dulana Pitiwaduge | Motor Driver |
 
 Department of Electronic & Telecommunication Engineering
 
